@@ -7,3 +7,4 @@ tutorials
 * [Alignment techniques table-cell](https://codepen.io/george_code_pen/pen/gOLZOMj)
 * [Alignment techniques positions](https://codepen.io/george_code_pen/pen/WNoLNZV)
 * [Alignment techniques flexbox](https://codepen.io/george_code_pen/pen/GRNPpWB)
+* [Alignment grid](https://codepen.io/george_code_pen/pen/WNoLJEx)
